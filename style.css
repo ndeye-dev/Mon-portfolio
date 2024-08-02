@@ -1,0 +1,41 @@
+/* styles.css */
+
+
+.hero{
+    background-image: linear-gradient(to right, #a517ba, #5F1782);
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    padding: 5rem 0;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+footer a {
+    text-decoration: none;
+}
+.card-img-top{
+    height: 30rem;
+    object-fit: cover;
+}
+footer{
+    background-image: linear-gradient(to right, #a517ba, #5F1782);
+}
+button[type = submit]{
+    background-image: linear-gradient(to right, #a517ba, #5F1782);
+}
+.imgg{
+    width: 7rem;
+}
+@media screen {
+    
+}
